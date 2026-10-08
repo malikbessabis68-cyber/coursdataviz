@@ -26,3 +26,9 @@ Le problème principal est qu’il contient trop de catégories, avec de nombreu
 Les noms des pays se chevauchent et deviennent difficiles à lire, tandis que les couleurs rendent difficile l’association entre chaque pays et son secteur. 
 Il est donc compliqué de comparer les différents pays et de comprendre rapidement les données. 
 Un diagramme en barres, classé du pays recevant le plus d’aide au pays recevant le moins d’aide, serait beaucoup plus lisible et adapté à ce type de données.
+
+
+
+TP2 - Description de l'image Paris vélib 
+
+Cette image présente une carte de Paris et de sa région avec la répartition des différentes stations Vélib. Chaque cercle bleu ou violet représente une station, et sa taille varie en fonction du taux de disponibilité des vélos: plus le cercle est grand, plus la disponibilité est importante. La couleur permet également de distinguer les stations selon la proportion de vélos électriques et mécaniques. On peut observer que les stations sont très nombreuses dans les zones centrales et qu’elles sont réparties dans l’ensemble de la ville. Certaines zones présentent une forte concentration de grands cercles, ce qui montre une disponibilité importante de vélos, tandis que d’autres stations possèdent des cercles beaucoup plus petits. La carte permet donc de visualiser rapidement les différences de disponibilité des Vélib selon les quartiers, tout en comparant la présence des vélos électriques et mécaniques.
