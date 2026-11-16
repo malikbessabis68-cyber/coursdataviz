@@ -11,7 +11,7 @@ Les points indiquent les communes et non les accidents réels.
 
 ## Accidents selon la luminosité
 
-![Graphique luminosité](graphique_luminosite.png)
+![Graphique luminosité](accidents_luminosite_schema.png)
 
 Le graphique compare les accidents selon cinq conditions de luminosité.
 Le plein jour est représenté par la barre la plus longue.
