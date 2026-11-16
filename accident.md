@@ -3,7 +3,7 @@
 
 ## Répartition géographique
 
-![Carte des accidents](carte_accidents.png)
+![Carte des accidents](carte_accidents_93_schema.png)
 
 La carte présente plusieurs communes de Seine-Saint-Denis.
 Elle permet de situer le territoire étudié.
