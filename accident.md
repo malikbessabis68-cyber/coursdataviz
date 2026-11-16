@@ -5,17 +5,13 @@
 
 ![Carte des accidents](carte_accidents_93_schema.png)
 
-La carte présente plusieurs communes de Seine-Saint-Denis.
-Elle permet de situer le territoire étudié.
-Les points indiquent les communes et non les accidents réels.
+La carte présente plusieurs communes de Seine-Saint-Denis, notamment Saint-Denis, Aubervilliers, Bobigny et Montreuil. Les points permettent de repérer leur position géographique grâce aux coordonnées de longitude et de latitude. Cette représentation donne un aperçu du territoire étudié.
 
 ## Accidents selon la luminosité
 
 ![Graphique luminosité](accidents_luminosite_schema.png)
 
-Le graphique compare les accidents selon cinq conditions de luminosité.
-Le plein jour est représenté par la barre la plus longue.
-Les effectifs affichés sont illustratifs et non issus des données officielles.
+Le plein jour présente la barre la plus longue, suivi de la nuit avec éclairage allumé et du crépuscule ou de l'aube. Les autres catégories sont moins représentées dans le graphique.
 
 
 
