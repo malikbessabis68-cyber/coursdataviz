@@ -12,13 +12,6 @@ La carte interactive représente les accidents disposant de coordonnées géogra
 ![Graphique luminosité](Conditionluminositéaccidents.png)
 
 Le graphique compare le nombre d'accidents selon les conditions de luminosité. Les barres sont classées de la valeur la plus élevée à la plus faible et les effectifs sont affichés directement. 
-| Condition de luminosité:           | Nombre d'accidents :
-| Plein jour                         | 1 581
-| Nuit avec éclairage allumé         | 448 
-| Crépuscule ou aube                 | 162 
-| Nuit sans éclairage public         | 141 
-| Nuit avec éclairage non allumé     | 23 
-| Total                              | 2 355 
 
 
 
