@@ -9,7 +9,7 @@ La carte présente plusieurs communes de Seine-Saint-Denis, notamment Saint-Deni
 
 ## Accidents selon la luminosité
 
-![Graphique luminosité](Conditionsluminositéaccidents.png)
+![Graphique luminosité](Conditionluminositéaccidents.png)
 
 Le plein jour présente la barre la plus longue, suivi de la nuit avec éclairage allumé et du crépuscule ou de l'aube. Les autres catégories sont moins représentées dans le graphique.
 
