@@ -5,13 +5,20 @@
 
 ![Carte des accidents](Répartitiondesaccidents.png)
 
-La carte présente plusieurs communes de Seine-Saint-Denis, notamment Saint-Denis, Aubervilliers, Bobigny et Montreuil. Les points permettent de repérer leur position géographique grâce aux coordonnées de longitude et de latitude. Cette représentation donne un aperçu du territoire étudié.
+La carte interactive représente les accidents disposant de coordonnées géographiques valides. Les cercles regroupent les marqueurs proches et indiquent le nombre d'accidents dans chaque regroupement. Le zoom permet d'observer leur localisation plus précisément. L'application affiche 2 355 accidents, dont 2 355 accidents géolocalisés.
 
 ## Accidents selon la luminosité
 
 ![Graphique luminosité](Conditionluminositéaccidents.png)
 
-Le plein jour présente la barre la plus longue, suivi de la nuit avec éclairage allumé et du crépuscule ou de l'aube. Les autres catégories sont moins représentées dans le graphique.
+Le graphique compare le nombre d'accidents selon les conditions de luminosité. Les barres sont classées de la valeur la plus élevée à la plus faible et les effectifs sont affichés directement. 
+| Condition de luminosité:           | Nombre d'accidents :
+| Plein jour                         | 1 581
+| Nuit avec éclairage allumé         | 448 
+| Crépuscule ou aube                 | 162 
+| Nuit sans éclairage public         | 141 
+| Nuit avec éclairage non allumé     | 23 
+| Total                              | 2 355 
 
 
 
