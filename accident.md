@@ -3,13 +3,13 @@
 
 ## Répartition géographique
 
-![Carte des accidents](Conditionsdeluminositéaccidents.png)
+![Carte des accidents](Répartitiondesaccidents.png)
 
 La carte présente plusieurs communes de Seine-Saint-Denis, notamment Saint-Denis, Aubervilliers, Bobigny et Montreuil. Les points permettent de repérer leur position géographique grâce aux coordonnées de longitude et de latitude. Cette représentation donne un aperçu du territoire étudié.
 
 ## Accidents selon la luminosité
 
-![Graphique luminosité](Répartitiondesaccidents.png)
+![Graphique luminosité](Conditionsluminositéaccidents.png)
 
 Le plein jour présente la barre la plus longue, suivi de la nuit avec éclairage allumé et du crépuscule ou de l'aube. Les autres catégories sont moins représentées dans le graphique.
 
